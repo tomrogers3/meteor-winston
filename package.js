@@ -1,5 +1,5 @@
 Package.describe({
-  summary: 'A multi-transport async logging library for node.js. "CHILL WINSTON! ... I put it in the logs."'
+  summary: 'Winston (wrapped for Meteor). A multi-transport async logging library for node.js. "CHILL WINSTON! ... I put it in the logs."'
 });
 
 Npm.depends({
