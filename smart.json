@@ -1,0 +1,9 @@
+{
+  "name": "winston",
+  "description": "Winston logging library, packaged for Meteor",
+  "homepage": "https://github.com/tomrogers3/meteor-winston",
+  "author": "Tom Rogers <tomrogers3@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/tomrogers3/meteor-winston.git",
+  "packages": {}
+}
