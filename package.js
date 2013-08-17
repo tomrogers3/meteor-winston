@@ -7,9 +7,9 @@ Npm.depends({
 });
 
 Package.on_use(function (api, where){
-	if(api.export){
+    if(api.export){
     	api.use('winston', 'server');
      	api.export('Winston', 'server');
-  	}
-  	api.add_files('winston.js', 'server');
+    }
+    api.add_files('winston.js', 'server');
 });
