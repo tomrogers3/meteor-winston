@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Npm.depends({
-    "winston": "0.7.1"
+    "winston": "0.7.2"
 });
 
 Package.on_use(function (api, where) {
