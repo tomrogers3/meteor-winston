@@ -15,8 +15,7 @@ See Winston [documentation](https://github.com/flatiron/winston.git) for more de
 
 Other related projects:
 
-[meteor-winston-loggly] (https://github.com/tomrogers3/meteor-winston-loggly)
-
-[meteor-winston-airbrake] (https://github.com/tomrogers3/meteor-winston-airbrake)
+* [meteor-winston-loggly] (https://github.com/tomrogers3/meteor-winston-loggly)
+* [meteor-winston-airbrake] (https://github.com/tomrogers3/meteor-winston-airbrake)
 
 
